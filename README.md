@@ -11,7 +11,7 @@
 
 - From: **Argentina**.
 
-- Currently: **Software Engineer** — TypeScript, Astro, React.
+- Currently: **Software Engineer** — TypeScript, Astro, React. Also studying Software Engineering at FACET, Argentina.
 
 - Also: building cool stuff and learning something new every day.
 
@@ -54,7 +54,7 @@
 <br/><br/>
 
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a> <a href="https://twitter.com/lucap__"><img src="https://img.shields.io/badge/X_(Twitter)-DDA0DD?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://linkedin.com/in/luca-dev/"><img src="https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a> <a href="https://porfolio-rukanate.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-DDA0DD?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://twitter.com/lucap__"><img src="https://img.shields.io/badge/X_(Twitter)-DDA0DD?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://linkedin.com/in/luca-dev/"><img src="https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=80&section=footer" width="100%" align="center" />
