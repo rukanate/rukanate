@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=twinkling&desc=TypeScript+gng&descSize=16" width="100%"/>
 
-<img src="./img/anime-rias-gremory.mp4" width="300" align="right" />
+<img src="https://media1.tenor.com/m/JeEvUuyrYw4AAAAC/rias-gremory.gif" width="280" align="right" />
 
 ### About Me
 
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/e3/0a/c9e30a251380ea0bdbabf34eb1bc7d66.jpg" width="250" title="Nami"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/anime-rias-gremory.mp4" width="250" title="Rias Gremory"/>
+  <img src="https://media1.tenor.com/m/JeEvUuyrYw4AAAAC/rias-gremory.gif" width="250" title="Rias Gremory"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://images7.alphacoders.com/139/thumb-1920-1399851.png" width="250" title="Marin Kitagawa"/>
 </p>
