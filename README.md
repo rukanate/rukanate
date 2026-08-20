@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=twinkling&desc=TypeScript%20gng&descSize=16&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=twinkling&desc=TypeScript%20gng&descSize=16&descAlignY=55" width="100%"/>
 
 <div>  
 <img width="337" src="https://media1.tenor.com/m/-Tom7dGlfl4AAAAC/rias.gif" align=right />
@@ -58,5 +58,5 @@
 <a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a> <a href="https://porfolio-rukanate.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-DDA0DD?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://twitter.com/lucap__"><img src="https://img.shields.io/badge/X_(Twitter)-DDA0DD?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://linkedin.com/in/luca-dev/"><img src="https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DDA0DD?style=for-the-badge"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=80&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=80&section=footer" width="100%"/>
 </div>
