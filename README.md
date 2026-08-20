@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=fadeIn&desc=TypeScript+gng&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&desc=TypeScript+gng&descSize=16&descAlignY=55" width="100%"/>
 
 <div>  
 <img width="337" src="https://media1.tenor.com/m/-Tom7dGlfl4AAAAC/rias.gif" align=right />
@@ -15,7 +15,7 @@
 
 - Also: building cool stuff and learning something new every day.
 
-- Off the clock: One Piece, High School DxD & My Dress-Up Darling fan.
+- Off the clock: Linux, books, writing articles on [X](https://twitter.com/lucap__).
 
 <br clear="both"/>
 
