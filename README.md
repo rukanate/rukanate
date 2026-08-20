@@ -1,24 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=twinkling&desc=TypeScript+gng+•+Anime+Enthusiast&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:E6E6FA&height=200&section=header&text=rukanate&fontSize=50&fontColor=fff&animation=twinkling&desc=TypeScript+gng&descSize=16" width="100%"/>
 
-<img src="https://tenor.com/bgBd5.gif" width="280" align="right" />
+<img src="https://media.tenor.com/m/JeEvUuyrYw4AAAAC/rias-gremory.gif" width="280" align="right" />
 
 ### About Me
 
-- 🔭 Frontend Developer — TypeScript, Astro, React
-- 🌱 Aprendiendo cosas nuevas cada día
-- 💬 Ask me about: **One Piece**, **High School DxD**, **My Dress-Up Darling**
-- ⚡ Fun fact: mi stack favorito es **TS + Astro** y no puedo ver un episodio sin snack 🍿
+- 🔭 Software Engineer — TypeScript, Astro, React
+- 🌱 Always learning something new
 
 <br clear="both"/>
 
-### Waifus Favoritas
+### Waifus
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c9/e3/0a/c9e30a251380ea0bdbabf34eb1bc7d66.jpg" width="250" title="Nami 🍊"/>
+  <img src="https://i.pinimg.com/originals/c9/e3/0a/c9e30a251380ea0bdbabf34eb1bc7d66.jpg" width="250" title="Nami"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://tenor.com/bgBd5.gif" width="250" title="Rias Gremory 🔴"/>
+  <img src="https://media.tenor.com/m/JeEvUuyrYw4AAAAC/rias-gremory.gif" width="250" title="Rias Gremory"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images7.alphacoders.com/139/thumb-1920-1399851.png" width="250" title="Marin Kitagawa 💗"/>
+  <img src="https://images7.alphacoders.com/139/thumb-1920-1399851.png" width="250" title="Marin Kitagawa"/>
 </p>
 
 ### Tech Stack
